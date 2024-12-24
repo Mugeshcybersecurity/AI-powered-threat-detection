@@ -93,8 +93,8 @@ Access comprehensive threat insights and analytics
 |-------------|------------------------|
 | Processor   | AMD Ryzen 5 5625U     |
 | RAM         | 4 To 8GB                   |
-| OS          | Windows 11            |
-| Storage     | 512GB SSD             |
+| OS          | Windows            |
+| Storage     | 65 min           |
 
 ## 🔧 Troubleshooting
 - Verify input file format (`cowrie.json.x.gz`)
