@@ -1,0 +1,11 @@
+{
+  "name": "isomorphic-abort-controller",
+  "version": "1.0.0",
+  "repository": "https://github.com/dzek69/isomorphic-abort-controller.git",
+  "author": "Jacek Nowacki @dzek69 <git-public@dzek.eu>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "abort-controller": "*"
+  }
+}
