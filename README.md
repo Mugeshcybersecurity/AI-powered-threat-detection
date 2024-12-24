@@ -91,7 +91,7 @@ Access comprehensive threat insights and analytics
 ## 💻 System Requirements
 | Component    | Minimum Requirement    |
 |-------------|------------------------|
-| Processor   | AMD Ryzen 5 5625U     |
+| Processor   | Core i5 or AMD Ryzen 5   |
 | RAM         | 4 To 8GB                   |
 | OS          | Windows            |
 
